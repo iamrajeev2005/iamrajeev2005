@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrajeev2005" alt="iamrajeev2005" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iamrajeev2005" target="blank"><img src="https://img.shields.io/twitter/follow/iamrajeev2005?logo=twitter&style=for-the-badge" alt="iamrajeev2005" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ1ZXV2MDA0cnV0ZDduNm1udDF2ZTZzeG02N3dha2ZxY2dpb3A4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 
 - 🌱 I’m going to learn **Full Stack Development💻**

@@ -1,13 +1,14 @@
 [![MasterHead](https://binsta.dev/api/v1/files/lo2OPeG1n2/transform?format=webp&size=lg&quality=hi)](https://iamrajeev2005.io)
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
 <h3 align="center">Young, Wild Frontend Explorer from India 🚀🌐</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrajeev2005&label=Profile%20views&color=0e75b6&style=flat" alt="iamrajeev2005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrajeev2005" alt="iamrajeev2005" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iamrajeev2005" target="blank"><img src="https://img.shields.io/twitter/follow/iamrajeev2005?logo=twitter&style=for-the-badge" alt="iamrajeev2005" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 - 🌱 I’m going to learn **Full Stack Development💻**
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://binsta.dev/api/v1/files/lo2OPeG1n2/transform?format=webp&size=lg&quality=hi)](https://iamrajeev2005.io)
+[![MasterHead](https://xgjzloifyvgpbmyonaya.supabase.co/storage/v1/object/public/files/lo2OPeG1n2/Zy12hhtOG2)](https://iamrajeev2005.io)
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
 <h3 align="center">Young, Wild Frontend Explorer from India 🚀🌐</h3>
 

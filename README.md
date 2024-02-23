@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamrajeev2005.github.io/](https://iamrajeev2005.github.io/)
 
-- 💬 Ask me about **HTML, CSS and and frameworks, JavaScript, React ,Next.js and JS Libraries**
+- 💬 Ask me about **HTML, CSS and frameworks, JavaScript, React ,Next.js and JS Libraries**
 
 - 📫 How to reach me **fea.rajeev@gmail.com**
 
